@@ -42,3 +42,9 @@ para configurar el email de este usuario
 
 `git log` <br>
 Ver el historial de commits de un proyecto
+
+`git checkout -- <file>` <br>
+para revertir los cambios de los archivos
+
+`git diff` <br>
+para ver las diferencias hechas en los archivos
